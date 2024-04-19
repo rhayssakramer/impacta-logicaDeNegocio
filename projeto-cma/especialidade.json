@@ -1,0 +1,17 @@
+{
+  "pacientes": [
+    {
+      "nome": "Rhayssa",
+      "idade": "33",
+      "dataNascimento": "23-01-1991",
+      "telefone": "8199999999"
+    }
+  ],
+  "consultas": [
+    {
+      "medico": "Italo",
+      "data": "23-05-2024",
+      "horario": "12:00"
+    }
+  ]
+}
